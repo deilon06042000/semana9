@@ -1,0 +1,19 @@
+ALLER SEMANA 9 - EJECUCIÓN DE SERVIDOR
+
+Nombre: Deilon
+Fecha: 21 abril 2026
+
+PASOS REALIZADOS:
+1. Creé los archivos: server.js + 4 archivos .txt
+2. En terminal ejecuté: npm install express
+3. En server.js pegué el código con app.get('/') y app.listen(3000)
+4. Guardé con Ctrl+S
+5. En terminal ejecuté: node server.js
+6. Se activó el puerto 3000
+7. Di clic en el link y el navegador abrió la página
+
+RESULTADO:
+El servidor muestra en el navegador: "Servidor semana 9 funcionando - Deilon"
+URL del servidor: silver-train-xrw5q7rqwv92p6q9-3000.app.github.dev
+
+CONCLUSIÓN: El servidor Express se ejecuta correctamente en Codespaces.

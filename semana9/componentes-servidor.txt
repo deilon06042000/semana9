@@ -1,0 +1,9 @@
+COMPONENTES DE UN SERVIDOR WEB CON NODE.JS + EXPRESS
+
+1. Node.js: Es el entorno de ejecución. Permite correr JavaScript fuera del navegador, en el servidor.
+
+2. Express: Es un framework de Node.js. Facilita crear rutas, manejar peticiones HTTP GET/POST y responder al cliente sin escribir tanto código.
+
+3. Puerto: Número que identifica el canal de comunicación. En el taller usamos el puerto 3000 para que el navegador se conecte al servidor.
+
+4. app.get('/'): Es la ruta principal. Cuando alguien entra a la URL, el servidor responde con el mensaje "Servidor semana 9 funcionando - Deilon".

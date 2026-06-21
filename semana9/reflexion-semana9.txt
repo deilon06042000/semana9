@@ -1,0 +1,7 @@
+REFLEXIÓN SEMANA 9
+
+Lo más difícil fue entender que el servidor no se "ve" hasta que se abre el puerto 3000. Pensaba que solo con guardar server.js ya funcionaba, pero hay que ejecutar node server.js.
+
+Lo que aprendí: Ahora sé crear un servidor básico con Express en 5 líneas de código. Entendí que el puerto es como la "puerta" por donde entra el navegador al servidor.
+
+Para qué sirve: Esto es la base de cualquier página web, API o aplicación. Facebook, WhatsApp y YouTube usan servidores que escuchan en puertos y responden peticiones igual que hicimos hoy, pero más complejos.
